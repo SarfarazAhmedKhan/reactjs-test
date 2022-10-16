@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="bxs-user-detail" transform="translate(-24 -591)">
+    <rect id="Background" width="20" height="20" transform="translate(24 591)" fill="none"/>
+    <path id="Shape" d="M35.667,606.833h-10V606a4.171,4.171,0,0,1,4.166-4.166H31.5A4.171,4.171,0,0,1,35.667,606v.832Zm6.666-1.667h-5V603.5h5v1.665Zm0-3.333H36.5v-1.667h5.833v1.666ZM30.667,601a2.917,2.917,0,1,1,2.917-2.917A2.853,2.853,0,0,1,30.667,601Zm11.667-2.5H35.667v-1.667h6.666V598.5Z" fill="#fff"/>
+  </g>
+</svg>

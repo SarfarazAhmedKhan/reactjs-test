@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fc833c24.chunk.css",
+    "main.js": "/static/js/main.be64f405.chunk.js",
+    "main.js.map": "/static/js/main.be64f405.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9f7f6d0d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9f7f6d0d.js.map",
+    "static/css/2.7bf01d97.chunk.css": "/static/css/2.7bf01d97.chunk.css",
+    "static/js/2.36300d1c.chunk.js": "/static/js/2.36300d1c.chunk.js",
+    "static/js/2.36300d1c.chunk.js.map": "/static/js/2.36300d1c.chunk.js.map",
+    "static/js/3.efd43767.chunk.js": "/static/js/3.efd43767.chunk.js",
+    "static/js/3.efd43767.chunk.js.map": "/static/js/3.efd43767.chunk.js.map",
+    "static/css/4.5a300285.chunk.css": "/static/css/4.5a300285.chunk.css",
+    "static/js/4.84fe74bd.chunk.js": "/static/js/4.84fe74bd.chunk.js",
+    "static/js/4.84fe74bd.chunk.js.map": "/static/js/4.84fe74bd.chunk.js.map",
+    "static/js/5.a14df679.chunk.js": "/static/js/5.a14df679.chunk.js",
+    "static/js/5.a14df679.chunk.js.map": "/static/js/5.a14df679.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.9d8af227e59499c64156c186de967148.js": "/precache-manifest.9d8af227e59499c64156c186de967148.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.7bf01d97.chunk.css.map": "/static/css/2.7bf01d97.chunk.css.map",
+    "static/css/4.5a300285.chunk.css.map": "/static/css/4.5a300285.chunk.css.map",
+    "static/css/main.fc833c24.chunk.css.map": "/static/css/main.fc833c24.chunk.css.map",
+    "static/js/2.36300d1c.chunk.js.LICENSE.txt": "/static/js/2.36300d1c.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/static/media/gaxon.b1a63de8.svg",
+    "static/media/wieldy.less": "/static/media/herobg.50ab1bfd.png",
+    "static/media/getFetch.cjs": "/static/media/getFetch.51c934af.cjs",
+    "static/media/iconclose.svg": "/static/media/iconclose.01301dbf.svg",
+    "static/media/notifications.css": "/static/media/notification.c0d3c94c.eot",
+    "static/media/style.css": "/static/media/parentpassadmin.c81132b6.woff2",
+    "static/media/sprite-flags-24x24.css": "/static/media/sprite-flags-24x24.7ed12ca4.png",
+    "static/media/user.svg": "/static/media/user.39781301.svg",
+    "static/media/white-user.svg": "/static/media/white-user.4958e76f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f7f6d0d.js",
+    "static/css/2.7bf01d97.chunk.css",
+    "static/js/2.36300d1c.chunk.js",
+    "static/css/main.fc833c24.chunk.css",
+    "static/js/main.be64f405.chunk.js"
+  ]
+}
