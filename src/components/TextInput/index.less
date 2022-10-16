@@ -1,0 +1,44 @@
+.custom-control-input {
+    display: block;
+    width: 100%;
+    border-radius: 0;
+    background-color: transparent;
+    border: none;
+    padding-bottom: 10px;
+    padding-left: 0px;
+    padding-top: 0px;
+    padding-right: 0px;
+    font-size: 24px;
+    color: #fff;
+    border-bottom: 1px solid hsla(0, 0%, 100%, 0.3);
+    transition: 0.1s;
+    margin-bottom: 5px;
+    border-radius: none !important;
+}
+
+.custom-control-input::placeholder {
+    color: #fff;
+    opacity: 0.3;
+}
+
+.custom-control-input:focus {
+    background-color: transparent;
+    outline: none;
+    box-shadow: none;
+    color: #fff;
+    border-bottom: 2px solid #fff;
+}
+
+.custom-control-input .ant-input:focus,
+.ant-input-focused {
+    border: none;
+}
+
+.custom-control-input:-webkit-autofill,
+.custom-control-input:-webkit-autofill:hover,
+.custom-control-input:-webkit-autofill:focus,
+.custom-control-input:-webkit-autofill:active {
+    -webkit-box-shadow: 0 0 0 30px #0e5272 inset !important;
+    -webkit-text-fill-color: white;
+    // color: white;
+}

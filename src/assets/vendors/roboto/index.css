@@ -1,0 +1,17 @@
+@import "./styles.css";
+
+.roboto-light {
+    font-family: "Roboto Light";
+}
+
+.roboto-regular {
+    font-family: "Roboto Regular";
+}
+
+.roboto-medium {
+    font-family: "Roboto Medium";
+}
+
+.roboto-bold {
+    font-family: "Roboto Bold";
+}

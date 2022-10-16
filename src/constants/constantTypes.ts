@@ -1,0 +1,167 @@
+export enum ACTIVITY_TYPE {
+    ALL,
+    EVENT,
+    PROGRAM
+}
+
+export enum CONTENT_TYPE {
+    ALL,
+    POST,
+    COMMENT
+}
+
+export enum RECURRENCE_TYPE {
+    NONE,
+    SIMPLE,
+    COMPLEX
+}
+
+export enum ACTIVITY_STATUS {
+    INVALID,
+    PENDING,
+    ACTIVE,
+    EXPIRED,
+    DECLINED
+}
+
+export enum NOTIFICATION_STATUS {
+    PENDING,
+    SENT
+}
+
+export enum ADMIN_ROLE {
+    Administrator,
+    Moderator
+}
+
+export enum ADMINISTRATOR_STATUS_ACTION {
+    ACTIVATE = 500,
+    INACTIVATE = 1300,
+    VIEW_PROFILE = 1500,
+    ACTIVE = 300,
+    INACTIVE = 200
+}
+
+export enum ADMINISTRATOR_STATUS {
+    INACTIVATE = 200,
+    ACTIVATE = 300
+}
+
+export enum RECURRENCE_CATEGORY_TYPE {
+    Access = 1,
+    Explore = 2
+}
+
+export enum COST_TYPE {
+    FREE = 1,
+    DISCOUNT = 2
+}
+
+export enum ACTIVITY_ACTIONS {
+    EDIT = 100,
+    DELETE = 200,
+    REPORT = 300,
+    EXPIRE = 400,
+    ACTIVATE = 500,
+    REMOVE_CONTENT = 600,
+    DISMISS = 700,
+    BAN_USER = 800,
+    TRANSLATE = 900,
+    VIEW_CONTENT = 1000,
+    APPROVED = 1100,
+    REJECTED = 1200,
+    DEACTIVATE = 1300,
+    UN_BAN_USER = 1400,
+    VIEW_PROFILE = 1500,
+    REVIEW_REPORT = 1600,
+    DELETE_REPORTED_ACTIVITY = 2200,
+    DUBLICATE = 2500,
+}
+
+export enum FREEBIE_ACTIONS {
+    DELETE_CATEGORY = 100,
+    DISMISS = 700,
+    REMOVE_CONTENT = 600,
+    BAN_USER = 800,
+    VIEW_CONTENT = 1000,
+    TRANSLATE = 900,
+    UN_BAN_USER = 1400,
+    DELETE_REPORTED_FREEBIE = 2100
+}
+
+export enum RESOURCE_ACTIONS {
+    DELETE_CATEGORY = 11300,
+    ADD_CONFIRM = 11400,
+    UPDATE_CONFIRM = 11500,
+    DELETE_RESOURCE = 11600
+}
+export enum CHAT_ACTIONS {
+    EDIT = 100,
+    DELETE = 200,
+    REPORT = 300,
+    EXPIRE = 400,
+    ACTIVATE = 500,
+    REMOVE_CONTENT = 600,
+    DISMISS = 700,
+    BAN_USER = 800,
+    TRANSLATE = 900,
+    VIEW_CONTENT = 1000,
+    UN_BAN_USER = 1400,
+    EDIT_TOPIC = 1700,
+    DELETE_TOPIC = 1800,
+    APPROVE_TOPIC = 1900,
+    REJECT_TOPIC = 2000,
+    DELETE_REPORTED_CHAT = 2400
+}
+
+export enum USER_STATUS_ACTIONS {
+    UNVERIFIED = 100,
+    VERIFIED = 200,
+    GUIDELINES_ACCEPTED = 300,
+    NEIGHBORHOOD_SET = 400,
+    ACTIVITIES_SET = 500,
+    COMPLETED = 600,
+    BANNED = 700,
+    DELETED = 800
+}
+
+export enum USER_STATUS {
+    INACTIVE,
+    PENDING,
+    ACTIVE,
+    BANNED
+}
+
+export enum CONTENT_VIOLATION_TYPE {
+    IMAGE = 15180,
+    TEXT = 15280
+}
+
+export enum REPORT_TYPE {
+    NOT_FAMILY_ORIENTED = 400,
+    INAPPROPRIATE = 500,
+    SAFETY_CONCERN = 600,
+    OTHER = 700
+}
+
+export enum DASHBOARD_DATE_TYPE {
+    ALL_TIME,
+    WEEKLY,
+    MONTHLY
+}
+
+export enum REPORT_EVENT_TYPE {
+    SERIES = 1,
+    SINGLE = 2
+}
+
+export enum CHAT_CONTENT_TYPE {
+    POST = 1,
+    COMMENT = 2
+}
+
+export enum NOTIFICATION_ACTIONS {
+    EDIT = 100,
+    DELETE = 200,
+    VIEW = 1000
+}

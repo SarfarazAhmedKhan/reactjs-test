@@ -1,0 +1,184 @@
+@font-face {
+  font-family: 'parentpassadmin';
+  src:  url('fonts/parentpassadmin.eot?roufzp');
+  src:  url('fonts/parentpassadmin.eot?roufzp#iefix') format('embedded-opentype'),
+    url('fonts/parentpassadmin.woff2?roufzp') format('woff2'),
+    url('fonts/parentpassadmin.ttf?roufzp') format('truetype'),
+    url('fonts/parentpassadmin.woff?roufzp') format('woff'),
+    url('fonts/parentpassadmin.svg?roufzp#parentpassadmin') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="usd-"], [class*=" usd-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'parentpassadmin' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.usd-account-password:before {
+  content: "\e900";
+}
+.usd-account:before {
+  content: "\e901";
+}
+.usd-activities:before {
+  content: "\e902";
+}
+.usd-administrators:before {
+  content: "\e903";
+}
+.usd-apple:before {
+  content: "\e904";
+}
+.usd-arrow-down-table:before {
+  content: "\e905";
+}
+.usd-arrow-down:before {
+  content: "\e906";
+}
+.usd-arrow-up-table:before {
+  content: "\e907";
+}
+.usd-arrow-up:before {
+  content: "\e908";
+}
+.usd-baby:before {
+  content: "\e909";
+}
+.usd-baby2:before {
+  content: "\e90a";
+}
+.usd-calendar:before {
+  content: "\e90b";
+}
+.usd-category:before {
+  content: "\e90c";
+}
+.usd-chat:before {
+  content: "\e90d";
+}
+.usd-check-circle:before {
+  content: "\e90e";
+}
+.usd-check:before {
+  content: "\e90f";
+}
+.usd-clock:before {
+  content: "\e910";
+}
+.usd-close:before {
+  content: "\e911";
+}
+.usd-close2:before {
+  content: "\e912";
+}
+.usd-clothing:before {
+  content: "\e913";
+}
+.usd-cloud:before {
+  content: "\e914";
+}
+.usd-comments:before {
+  content: "\e915";
+}
+.usd-cost:before {
+  content: "\e916";
+}
+.usd-dashboard:before {
+  content: "\e917";
+}
+.usd-delete:before {
+  content: "\e918";
+}
+.usd-dots:before {
+  content: "\e919";
+}
+.usd-edit:before {
+  content: "\e91a";
+}
+.usd-educational:before {
+  content: "\e91b";
+}
+.usd-electronics:before {
+  content: "\e91c";
+}
+.usd-facebook:before {
+  content: "\e91d";
+}
+.usd-freebies:before {
+  content: "\e91e";
+}
+.usd-furniture:before {
+  content: "\e91f";
+}
+.usd-home-items:before {
+  content: "\e920";
+}
+.usd-host:before {
+  content: "\e921";
+}
+.usd-link:before {
+  content: "\e922";
+}
+.usd-logout:before {
+  content: "\e923";
+}
+.usd-map-pin:before {
+  content: "\e924";
+}
+.usd-map-pin2:before {
+  content: "\e925";
+}
+.usd-other:before {
+  content: "\e926";
+}
+.usd-pdf:before {
+  content: "\e927";
+}
+.usd-resources:before {
+  content: "\e928";
+}
+.usd-search:before {
+  content: "\e929";
+}
+.usd-sort:before {
+  content: "\e92a";
+}
+.usd-toggle-menu-open:before {
+  content: "\e92b";
+}
+.usd-toggle-menu:before {
+  content: "\e92c";
+}
+.usd-toys:before {
+  content: "\e92d";
+}
+.usd-translate:before {
+  content: "\e92e";
+}
+.usd-upload:before {
+  content: "\e92f";
+}
+.usd-users:before {
+  content: "\e930";
+}
+.usd-view-password-cut:before {
+  content: "\e931";
+}
+.usd-view-password:before {
+  content: "\e932";
+}
+.usd-warning:before {
+  content: "\e933";
+}

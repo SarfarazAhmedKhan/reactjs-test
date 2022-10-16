@@ -1,0 +1,55 @@
+@import "./styles.css";
+
+.poppins-thin {
+    font-family: "Poppins Thin";
+}
+
+.poppins-regular {
+    font-family: "Poppins Regular";
+}
+
+.poppins-medium {
+    font-family: "Poppins Medium";
+}
+
+.poppins-semibold {
+    font-family: "Poppins SemiBold";
+}
+
+.poppins-bold {
+    font-family: "Poppins Bold";
+}
+
+.poppins-extrabold {
+    font-family: "Poppins ExtraBold";
+}
+
+/* .poppins-thin {
+    font-family: "Poppins Regular";
+    font-weight: 300;
+}
+
+.poppins-regular {
+    font-family: "Poppins Regular";
+    font-weight: 400;
+}
+
+.poppins-medium {
+    font-family: "Poppins Regular";
+    font-weight: 500;
+}
+
+.poppins-semibold {
+    font-family: "Poppins Regular";
+    font-weight: 600;
+}
+
+.poppins-bold {
+    font-family: "Poppins Regular";
+    font-weight: 700;
+}
+
+.poppins-extrabold {
+    font-family: "Poppins Regular";
+    font-weight: 800;
+} */
